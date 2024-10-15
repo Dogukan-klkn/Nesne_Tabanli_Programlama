@@ -1,0 +1,7 @@
+C:\Users\kalka\source\repos\SpiralMetrix\SpiralMetrix\bin\Debug\SpiralMetrix.exe.config
+C:\Users\kalka\source\repos\SpiralMetrix\SpiralMetrix\bin\Debug\SpiralMetrix.exe
+C:\Users\kalka\source\repos\SpiralMetrix\SpiralMetrix\bin\Debug\SpiralMetrix.pdb
+C:\Users\kalka\source\repos\SpiralMetrix\SpiralMetrix\obj\Debug\SpiralMetrix.csprojAssemblyReference.cache
+C:\Users\kalka\source\repos\SpiralMetrix\SpiralMetrix\obj\Debug\SpiralMetrix.csproj.CoreCompileInputs.cache
+C:\Users\kalka\source\repos\SpiralMetrix\SpiralMetrix\obj\Debug\SpiralMetrix.exe
+C:\Users\kalka\source\repos\SpiralMetrix\SpiralMetrix\obj\Debug\SpiralMetrix.pdb

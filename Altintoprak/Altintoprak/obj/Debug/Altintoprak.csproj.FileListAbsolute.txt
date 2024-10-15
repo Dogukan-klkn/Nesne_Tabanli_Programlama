@@ -1,0 +1,7 @@
+C:\Users\kalka\Desktop\c#\Altintoprak\Altintoprak\bin\Debug\Altintoprak.exe.config
+C:\Users\kalka\Desktop\c#\Altintoprak\Altintoprak\bin\Debug\Altintoprak.exe
+C:\Users\kalka\Desktop\c#\Altintoprak\Altintoprak\bin\Debug\Altintoprak.pdb
+C:\Users\kalka\Desktop\c#\Altintoprak\Altintoprak\obj\Debug\Altintoprak.csprojAssemblyReference.cache
+C:\Users\kalka\Desktop\c#\Altintoprak\Altintoprak\obj\Debug\Altintoprak.csproj.CoreCompileInputs.cache
+C:\Users\kalka\Desktop\c#\Altintoprak\Altintoprak\obj\Debug\Altintoprak.exe
+C:\Users\kalka\Desktop\c#\Altintoprak\Altintoprak\obj\Debug\Altintoprak.pdb

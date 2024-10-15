@@ -1,0 +1,7 @@
+C:\Users\kalka\Desktop\c#\MatrixCarpim\MatrixCarpim\bin\Debug\MatrixCarpim.exe.config
+C:\Users\kalka\Desktop\c#\MatrixCarpim\MatrixCarpim\bin\Debug\MatrixCarpim.exe
+C:\Users\kalka\Desktop\c#\MatrixCarpim\MatrixCarpim\bin\Debug\MatrixCarpim.pdb
+C:\Users\kalka\Desktop\c#\MatrixCarpim\MatrixCarpim\obj\Debug\MatrixCarpim.csprojAssemblyReference.cache
+C:\Users\kalka\Desktop\c#\MatrixCarpim\MatrixCarpim\obj\Debug\MatrixCarpim.csproj.CoreCompileInputs.cache
+C:\Users\kalka\Desktop\c#\MatrixCarpim\MatrixCarpim\obj\Debug\MatrixCarpim.exe
+C:\Users\kalka\Desktop\c#\MatrixCarpim\MatrixCarpim\obj\Debug\MatrixCarpim.pdb

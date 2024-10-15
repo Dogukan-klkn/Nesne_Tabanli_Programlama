@@ -1,0 +1,7 @@
+C:\Users\kalka\Desktop\c#\Asalsayi\Asalsayi\bin\Debug\Asalsayi.exe.config
+C:\Users\kalka\Desktop\c#\Asalsayi\Asalsayi\bin\Debug\Asalsayi.exe
+C:\Users\kalka\Desktop\c#\Asalsayi\Asalsayi\bin\Debug\Asalsayi.pdb
+C:\Users\kalka\Desktop\c#\Asalsayi\Asalsayi\obj\Debug\Asalsayi.csprojAssemblyReference.cache
+C:\Users\kalka\Desktop\c#\Asalsayi\Asalsayi\obj\Debug\Asalsayi.csproj.CoreCompileInputs.cache
+C:\Users\kalka\Desktop\c#\Asalsayi\Asalsayi\obj\Debug\Asalsayi.exe
+C:\Users\kalka\Desktop\c#\Asalsayi\Asalsayi\obj\Debug\Asalsayi.pdb
