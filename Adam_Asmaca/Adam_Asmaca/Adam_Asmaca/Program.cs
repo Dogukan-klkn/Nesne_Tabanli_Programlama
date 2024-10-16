@@ -24,7 +24,7 @@ class Program
        };
 
             Random rastgele = new Random();
-            string secilenKelime = kelimeListesi[rastgele.Next(0, kelimeListesi.Length)]; // Seçilen kelime küçük harf
+            string secilenKelime = kelimeListesi[rastgele.Next(0, kelimeListesi.Length)]; // Seçilen kelime 
 
             // Oyuncunun göreceği boşluklar (gizli kelime)
             char[] gizliKelime = new string('_', secilenKelime.Length).ToCharArray();
@@ -46,7 +46,7 @@ class Program
 
                 // Kullanıcıya harf veya kelime tahmini seçeneği sunalım
                 Console.WriteLine("Bir harf tahmin edin veya kelimeyi çözmeye çalışın:");
-                string tahmin = Console.ReadLine(); // Tahmin al, küçük harfe çevir
+                string tahmin = Console.ReadLine(); // Tahmin al
 
                 // Tahmin bir harf mi yoksa kelime mi kontrol et
                 if (tahmin.Length == 1) // Harf tahmini
