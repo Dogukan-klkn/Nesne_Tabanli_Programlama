@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35213.121
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matcozum", "Matcozum\Matcozum.csproj", "{AFABB328-CF22-44E7-BBE9-B3C5CCC3ADAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFABB328-CF22-44E7-BBE9-B3C5CCC3ADAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFABB328-CF22-44E7-BBE9-B3C5CCC3ADAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFABB328-CF22-44E7-BBE9-B3C5CCC3ADAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFABB328-CF22-44E7-BBE9-B3C5CCC3ADAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C7F2934-51B9-402B-A11A-D45B9CA42921}
+	EndGlobalSection
+EndGlobal
