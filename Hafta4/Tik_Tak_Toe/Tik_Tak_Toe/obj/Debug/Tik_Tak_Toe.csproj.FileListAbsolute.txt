@@ -1,7 +1,0 @@
-C:\Users\kalka\Desktop\Hafta4\Tik_Tak_Toe\Tik_Tak_Toe\bin\Debug\Tik_Tak_Toe.exe.config
-C:\Users\kalka\Desktop\Hafta4\Tik_Tak_Toe\Tik_Tak_Toe\bin\Debug\Tik_Tak_Toe.exe
-C:\Users\kalka\Desktop\Hafta4\Tik_Tak_Toe\Tik_Tak_Toe\bin\Debug\Tik_Tak_Toe.pdb
-C:\Users\kalka\Desktop\Hafta4\Tik_Tak_Toe\Tik_Tak_Toe\obj\Debug\Tik_Tak_Toe.csprojAssemblyReference.cache
-C:\Users\kalka\Desktop\Hafta4\Tik_Tak_Toe\Tik_Tak_Toe\obj\Debug\Tik_Tak_Toe.csproj.CoreCompileInputs.cache
-C:\Users\kalka\Desktop\Hafta4\Tik_Tak_Toe\Tik_Tak_Toe\obj\Debug\Tik_Tak_Toe.exe
-C:\Users\kalka\Desktop\Hafta4\Tik_Tak_Toe\Tik_Tak_Toe\obj\Debug\Tik_Tak_Toe.pdb
