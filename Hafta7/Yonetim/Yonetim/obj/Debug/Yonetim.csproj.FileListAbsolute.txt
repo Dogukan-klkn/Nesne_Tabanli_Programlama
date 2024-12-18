@@ -1,0 +1,7 @@
+C:\Users\kalka\source\repos\Yonetim\Yonetim\bin\Debug\Yonetim.exe.config
+C:\Users\kalka\source\repos\Yonetim\Yonetim\bin\Debug\Yonetim.exe
+C:\Users\kalka\source\repos\Yonetim\Yonetim\bin\Debug\Yonetim.pdb
+C:\Users\kalka\source\repos\Yonetim\Yonetim\obj\Debug\Yonetim.csprojAssemblyReference.cache
+C:\Users\kalka\source\repos\Yonetim\Yonetim\obj\Debug\Yonetim.csproj.CoreCompileInputs.cache
+C:\Users\kalka\source\repos\Yonetim\Yonetim\obj\Debug\Yonetim.exe
+C:\Users\kalka\source\repos\Yonetim\Yonetim\obj\Debug\Yonetim.pdb

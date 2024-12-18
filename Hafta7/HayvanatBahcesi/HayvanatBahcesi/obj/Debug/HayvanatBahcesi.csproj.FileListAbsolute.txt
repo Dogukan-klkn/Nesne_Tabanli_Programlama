@@ -1,0 +1,7 @@
+C:\Users\kalka\Desktop\lap7_\HayvanatBahcesi\HayvanatBahcesi\bin\Debug\HayvanatBahcesi.exe.config
+C:\Users\kalka\Desktop\lap7_\HayvanatBahcesi\HayvanatBahcesi\bin\Debug\HayvanatBahcesi.exe
+C:\Users\kalka\Desktop\lap7_\HayvanatBahcesi\HayvanatBahcesi\bin\Debug\HayvanatBahcesi.pdb
+C:\Users\kalka\Desktop\lap7_\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\HayvanatBahcesi.csprojAssemblyReference.cache
+C:\Users\kalka\Desktop\lap7_\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\HayvanatBahcesi.csproj.CoreCompileInputs.cache
+C:\Users\kalka\Desktop\lap7_\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\HayvanatBahcesi.exe
+C:\Users\kalka\Desktop\lap7_\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\HayvanatBahcesi.pdb

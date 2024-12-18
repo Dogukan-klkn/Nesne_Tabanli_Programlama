@@ -1,0 +1,7 @@
+C:\Users\kalka\Desktop\lap7_\AbtractHesapY\AbtractHesapY\bin\Debug\AbtractHesapY.exe.config
+C:\Users\kalka\Desktop\lap7_\AbtractHesapY\AbtractHesapY\bin\Debug\AbtractHesapY.exe
+C:\Users\kalka\Desktop\lap7_\AbtractHesapY\AbtractHesapY\bin\Debug\AbtractHesapY.pdb
+C:\Users\kalka\Desktop\lap7_\AbtractHesapY\AbtractHesapY\obj\Debug\AbtractHesapY.csprojAssemblyReference.cache
+C:\Users\kalka\Desktop\lap7_\AbtractHesapY\AbtractHesapY\obj\Debug\AbtractHesapY.csproj.CoreCompileInputs.cache
+C:\Users\kalka\Desktop\lap7_\AbtractHesapY\AbtractHesapY\obj\Debug\AbtractHesapY.exe
+C:\Users\kalka\Desktop\lap7_\AbtractHesapY\AbtractHesapY\obj\Debug\AbtractHesapY.pdb

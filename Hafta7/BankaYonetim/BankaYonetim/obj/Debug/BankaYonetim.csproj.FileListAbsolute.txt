@@ -1,0 +1,7 @@
+C:\Users\kalka\Desktop\lap7_\BankaYonetim\BankaYonetim\bin\Debug\BankaYonetim.exe.config
+C:\Users\kalka\Desktop\lap7_\BankaYonetim\BankaYonetim\bin\Debug\BankaYonetim.exe
+C:\Users\kalka\Desktop\lap7_\BankaYonetim\BankaYonetim\bin\Debug\BankaYonetim.pdb
+C:\Users\kalka\Desktop\lap7_\BankaYonetim\BankaYonetim\obj\Debug\BankaYonetim.csprojAssemblyReference.cache
+C:\Users\kalka\Desktop\lap7_\BankaYonetim\BankaYonetim\obj\Debug\BankaYonetim.csproj.CoreCompileInputs.cache
+C:\Users\kalka\Desktop\lap7_\BankaYonetim\BankaYonetim\obj\Debug\BankaYonetim.exe
+C:\Users\kalka\Desktop\lap7_\BankaYonetim\BankaYonetim\obj\Debug\BankaYonetim.pdb
