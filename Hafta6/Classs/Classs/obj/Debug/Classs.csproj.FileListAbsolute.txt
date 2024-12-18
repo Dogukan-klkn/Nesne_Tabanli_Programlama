@@ -1,0 +1,2 @@
+C:\Users\kalka\Desktop\c#\hafta6\Classs\Classs\obj\Debug\Classs.csprojAssemblyReference.cache
+C:\Users\kalka\Desktop\c#\hafta6\Classs\Classs\obj\Debug\Classs.csproj.CoreCompileInputs.cache
