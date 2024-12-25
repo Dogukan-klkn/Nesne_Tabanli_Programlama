@@ -1,0 +1,7 @@
+C:\Users\kalka\Desktop\Hafta8\PersonProffesor\PersonProffesor\bin\Debug\PersonProffesor.exe.config
+C:\Users\kalka\Desktop\Hafta8\PersonProffesor\PersonProffesor\bin\Debug\PersonProffesor.exe
+C:\Users\kalka\Desktop\Hafta8\PersonProffesor\PersonProffesor\bin\Debug\PersonProffesor.pdb
+C:\Users\kalka\Desktop\Hafta8\PersonProffesor\PersonProffesor\obj\Debug\PersonProffesor.csprojAssemblyReference.cache
+C:\Users\kalka\Desktop\Hafta8\PersonProffesor\PersonProffesor\obj\Debug\PersonProffesor.csproj.CoreCompileInputs.cache
+C:\Users\kalka\Desktop\Hafta8\PersonProffesor\PersonProffesor\obj\Debug\PersonProffesor.exe
+C:\Users\kalka\Desktop\Hafta8\PersonProffesor\PersonProffesor\obj\Debug\PersonProffesor.pdb
